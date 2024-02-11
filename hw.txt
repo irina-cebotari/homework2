@@ -1,2 +1,2 @@
 hello
-new conflict
+new conflict1
